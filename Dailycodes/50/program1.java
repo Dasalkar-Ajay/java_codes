@@ -1,0 +1,6 @@
+
+
+interface Demo{
+	void run();
+	
+}

@@ -1,0 +1,6 @@
+
+class Parent{
+	class DEmo{
+	}
+}
+
